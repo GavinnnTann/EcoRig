@@ -12,6 +12,7 @@ Built as a Term 5 EPD - Engineering Design Innovation (30.007) Project at **Sing
 ![EcoRig mounted on a tree](Pictures/final.png)
 
 [![Watch the Demo](https://img.youtube.com/vi/12M0SeIs280/maxresdefault.jpg)](https://www.youtube.com/watch?v=12M0SeIs280)
+Watch this video by click on it ^
 
 ---
 
